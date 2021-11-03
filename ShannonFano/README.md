@@ -12,4 +12,4 @@
 ## Example
 
 ![Shanon-Fano example](../assets/ShannonFano.png)
-Format: ![Shanon-Fano example]([url](https://github.com/2thousandmax/algorithms/blob/main/assets/ShannonFano.png?raw=true))
+![Shanon-Fano example](https://github.com/2thousandmax/algorithms/blob/main/assets/ShannonFano.png?raw=true)
